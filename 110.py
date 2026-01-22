@@ -1,0 +1,5 @@
+x= input()
+##y= int(input()
+#print(len(x))
+print(x.upper())
+print(x.lower())
