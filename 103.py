@@ -2,4 +2,4 @@ s = input()
 if s.isdigit():
     print("int")
 else: 
-    print('str')
+    print('str')# Проверка и вывод типа введенных данных
